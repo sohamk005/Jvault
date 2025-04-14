@@ -1,4 +1,4 @@
-# 🔐 SecureFileEncryption - Java GUI File Encryptor
+# 🔐 Jvault - SecureFileEncryption - Java GUI File Encryptor
 
 This is a simple and secure Java Swing-based GUI application to encrypt and decrypt files using AES encryption. Perfect as a cybersecurity mini project or to learn about cryptography in Java.
 
